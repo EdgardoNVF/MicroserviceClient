@@ -3,7 +3,7 @@ name: DevSecOps Microservice Client
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   security-scan:
